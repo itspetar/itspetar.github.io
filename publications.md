@@ -6,7 +6,7 @@ layout: secondary
 
 #### Published
 
-* J. J. Axelrod, **P. N. Petrov**, J. T. Zhang, J. Remis, R. M. Glaeser, H. Müller, "Overcoming resolution loss due to thermal magnetic field fluctuations from phase plates in transmission electron microscopy," _Ultramicroscopy_ 249 (2023) <a href="https://doi.org/10.1101/2023.02.12.528160" target="_blank">doi</a>
+* J. J. Axelrod, **P. N. Petrov**, J. T. Zhang, J. Remis, R. M. Glaeser, H. Müller, "Overcoming resolution loss due to thermal magnetic field fluctuations from phase plates in transmission electron microscopy," _Ultramicroscopy_ 249 (2023) <a href="https://doi.org/10.1016/j.ultramic.2023.113730" target="_blank">doi</a>
 * A.-K. Gustavsson, R. P. Ghosh, **P. N. Petrov**, J. T. Liphardt, W. E. Moerner, "Fast and parallel nanoscale three-dimensional tracking of heterogeneous mammalian chromatin dynamics," _Mol. Biol. Cell_ 33 (2022) <a href="https://doi.org/10.1091/mbc.E21-10-0514" target="_blank">doi</a>
 * **P. N. Petrov**, H. Müller, R. M. Glaeser, "Perspective: Emerging strategies for determining atomic-resolution structures of macromolecular complexes within cells," _J. Struct. Biol._ 214 (2022) <a href="https://doi.org/10.1016/j.jsb.2021.107827" target="_blank">doi</a>
 * C. Turnbaugh, J. J. Axelrod, S. L. Campbell, J. Y. Dioquino, **P. N. Petrov**, J. Remis, O. Schwartz, Z. Yu, Y. Cheng, R. M. Glaeser, H. Müller, "High-power near-concentric Fabry-Perot cavity for phase contrast electron microscopy," _Rev. Sci. Instrum._ 92 (2021) <a href="https://doi.org/10.1063/5.0045496" target="_blank">doi</a>
