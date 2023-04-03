@@ -6,9 +6,8 @@ layout: secondary
 
 Below are links to some recorded talks I have given.
 
-* One-World Cryo-EM https://www.youtube.com/watch?v=Hq5APNPJuiw
-* Institute for Applied Mathematics https://www.youtube.com/watch?v=wEgoGIjkjqA
-* SPIE BiOS 2017 https://doi.org/10.1117/12.2251307
-
+* <a href="https://www.youtube.com/watch?v=Hq5APNPJuiw">One World Cryo-EM Seminar</a>, March 2023
+* <a href="https://www.youtube.com/watch?v=wEgoGIjkjqA" target="_blank">Cryo-Electron Microscopy and Beyond Workshop</a>, Institute for Pure and Applied Mathematics, November 2022
+* <a href="https://doi.org/10.1117/12.2251307" target="_blank">Single Molecule Spectroscopy and Superresolution Imaging Conference</a>, SPIE BiOS, January 2017
 
 [back](./)
