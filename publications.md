@@ -21,4 +21,4 @@ layout: secondary
 * M. P. Backlund, A. Arbabi, **P. N. Petrov**, E. Arbabi, A. Faraon, W. E. Moerner, "Removing orientation-induced localization biases in single-molecule microscopy using a broadband metasurface mask," _Nat. Photonics_ 10 (2016) <a href="http://doi.org/10.1038/nphoton.2016.93" target="_blank">doi</a>
 * A. Fu, H. Gao, **P. N. Petrov**, P. Yang, "Widely Tuneable Distributed Bragg Reflectors Integrated into Nanowire Waveguides," _Nano Lett._ 15 (2015) <a href="http://doi.org/10.1021/acs.nanolett.5b02839" target="_blank">doi</a>
 
-[back](./)
+[Back](./)
