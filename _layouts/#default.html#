@@ -33,7 +33,7 @@
         <a href="{{ site.github.owner_url }}" target="_blank">GitHub</a>
         <br>
         <a href="https://scholar.google.com/citations?user=UK_wrK4AAAAJ&hl=en" target="_blank">Google Scholar</a>
-	<a href="https://www.goodreads.com/user/show/74047226-petar-petrov" target="_blank">Goodreads</a>
+	<a href="
         </p>
 
         {% if site.show_downloads %}
