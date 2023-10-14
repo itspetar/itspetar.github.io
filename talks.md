@@ -4,7 +4,7 @@ layout: secondary
 
 ## Talks
 
-Below are links to some recorded talks I have given.
+Below are links to some recorded talks of mine.
 
 * <a href="https://www.youtube.com/watch?v=Hq5APNPJuiw">One World Cryo-EM Seminar</a>, March 2023
 * <a href="https://www.youtube.com/watch?v=wEgoGIjkjqA" target="_blank">Cryo-Electron Microscopy and Beyond Workshop</a>, Institute for Pure and Applied Mathematics, November 2022
