@@ -15,5 +15,4 @@ Prior to my postdoctoral work, I received a Ph.D. in Physical Chemistry in the g
 **External Links**
 
 Below, I share links to some pages I find interesting or useful. I am not affiliated with any of these:
-* <a href="https://grant-witness.us/" target="_blank">Grant Witness</a> tracks the termination of <a href="https://grant-witness.us/nih-data.html" target="_blank">NIH</a> and <a href="https://grant-witness.us/nsf-data.html" target="_blank">NSF</a> grants by the United States government.
 * <a href="https://berkeleyearth.org/" target="_blank">Berkeley Earth</a> provides open-source data and analysis regarding climate change.
