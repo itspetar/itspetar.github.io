@@ -16,3 +16,4 @@ Prior to my postdoctoral work, I received a Ph.D. in Physical Chemistry in the g
 
 Below, I share links to some pages I find interesting or useful. I am not affiliated with any of these:
 * <a href="https://berkeleyearth.org/" target="_blank">Berkeley Earth</a> provides open-source data and analysis regarding climate change.
+* <a href="https://www.fabiocrameri.ch/colourmaps/ target="_blank">Scientific colour maps</a> provides a variety of beautiful and functional color maps for rendering information.
